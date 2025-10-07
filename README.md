@@ -1,4 +1,5 @@
-## Hi there i am Muhammad ahmad (A 12 Class Student )👋
 
-I am a quick learner.
-Introduction 
+Hi! I’m Muhammad  Ahmad 👨‍💻
+💻 2nd-year CS student
+🌱 Learning Web Development & DSA
+🚀 Passionate about building projects and solving problems
